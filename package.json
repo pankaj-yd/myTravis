@@ -1,0 +1,23 @@
+{
+  "name": "myProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myFunction.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankyyd/add-sub-mult-divide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankyyd/add-sub-mult-divide/issues"
+  },
+  "homepage": "https://github.com/pankyyd/add-sub-mult-divide#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
